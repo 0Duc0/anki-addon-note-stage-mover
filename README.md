@@ -1,3 +1,5 @@
+> **Moved.** This add-on is continued as the Learning Toolkit (Quick Note Mover) in [0Duc0/anki-learning-toolkit](https://github.com/0Duc0/anki-learning-toolkit) – download the current version from its [releases](https://github.com/0Duc0/anki-learning-toolkit/releases/latest). This repository is archived.
+
 # Quick Note Mover
 
 Private archive of the installed add-on source and a portable installation package.
